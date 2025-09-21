@@ -11,12 +11,14 @@ An electronic device that can:
 - Output, the result (a click registered, sound played and much more)
 
 
-Von Neumann architecture:
+## Von Neumann architecture:
 
 - Keyboard / mouse (input)  --> process  --> output (a click, sound)
 -                                ↓↑
 -                            - storage - (RAM or hard disk)
-System architecture 
+
+
+## System architecture 
 
 The processor "the brain" known as CPU
 
