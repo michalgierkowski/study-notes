@@ -13,8 +13,8 @@ An electronic device that can:
 
 Von Neumann architecture:
 
-Keyboard / mouse (input)  --> process  --> output (a click, sound)
-                                ↓↑
+- Keyboard / mouse (input)  --> process  --> output (a click, sound)
+-                                ↓↑
 -                            - storage - (RAM or hard disk)
 System architecture 
 
