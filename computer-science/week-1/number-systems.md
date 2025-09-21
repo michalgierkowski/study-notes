@@ -21,7 +21,8 @@ Why is binary used?
 - Counting from right to left when assigning positions
 
 Why is denary used?
-- Denary is used in daily usages to count, measure and perform calculations such as:
+
+Denary is used in daily usages to count, measure and perform calculations such as:
 - count how many items in shopping cart
 - measure how tall a building needs to be
 - This allows humans to have a easier interaction with computers.
