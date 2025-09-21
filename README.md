@@ -10,7 +10,7 @@ Notes are organised by topic and updated weekly. Each folder contains files whic
 
 
 ## Structure
-- **databases/** -> notes on SQL, ERDs, and database design.
+- **databases/** -> notes on SQL, ERDs, and data related.
 - **networks/** -> notes on OSI model, TCP/IP, protocols and networking labs.
 - **python/** -> notes on Python basics, data structures, functions and more.
 - **systems/** -> notes on operating systems, architecture, and hardware.
