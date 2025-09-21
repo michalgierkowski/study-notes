@@ -12,6 +12,7 @@ Binary the lowest-level language which computers understand. Anything that a com
 - images
 - audio
 - programs
+
 Must be converted into binary so the processor can understand and handle it.
 
 ## Denary:
@@ -22,6 +23,7 @@ Must be converted into binary so the processor can understand and handle it.
 Used in daily usages to count, measure and perform calculations such as:
 - count how many items in shopping cart
 - measure how tall a building needs to be
+
 This allows humans to have a easier interaction with computers.
 
 ## Hexadecimal:
