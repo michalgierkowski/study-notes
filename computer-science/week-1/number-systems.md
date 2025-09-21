@@ -33,6 +33,7 @@ Hexadecimal is used to make large binary numbers representable.
 - IP Address (IPv4)
 - Web Design (Colour codes)
 - Memory addresses
+
 This allows notations to be more "human-friendly"
 
 ## Octal:
