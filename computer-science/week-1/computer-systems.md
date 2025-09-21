@@ -15,8 +15,7 @@ Von Neumann architecture:
 
 Keyboard / mouse (input)  --> process  --> output (a click, sound)
                                 ↓↑
-                            - storage - (RAM or hard disk)
-
+-                            - storage - (RAM or hard disk)
 System architecture 
 
 The processor "the brain" known as CPU
