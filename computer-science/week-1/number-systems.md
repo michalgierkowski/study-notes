@@ -1,5 +1,5 @@
 # Number Systems
-## A number system is a structured way of representing and showcasing numbers such as decimal or binary.
+- A number system is a structured way of representing and showcasing numbers such as decimal or binary.
 
 ## Binary:
 - Base-2
@@ -20,7 +20,7 @@
 - Standard number system (What us humans use daily)
 - Counting from right to left when assigning positions
 
-### Why is denary used?
+#### Why is denary used?
 
 Denary is used in daily usages to count, measure and perform calculations such as:
 - count how many items in shopping cart
