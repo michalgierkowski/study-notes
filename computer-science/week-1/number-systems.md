@@ -1,9 +1,7 @@
 A number system is a structured way of representing and showcasing numbers such as decimal or binary.
-
-
 Types of number systems are such as Binary, Denary (decimal), Hexadecimal and Octal.
 
-Binary:
+## Binary:
 - Base-2
 - Works in a transistor (tiny switch with 2 states)
 - 0 = no flow of electricity (off)
@@ -15,11 +13,12 @@ Binary the lowest-level language which computers understand. Anything that a com
 - images
 - audio
 - programs
-Must be converted into binary so the processor can handle it.
+Must be converted into binary so the processor can understand and handle it.
 
-Denary:
+## Denary:
 - Base-10 (0-9)
-- Standard number system
+- Standard number system (What us humans use daily)
+- Counting from right to left when assigning positions
 
 Why is denary used?
 Denary is used in daily usages to count, measure and perform calculations such as:
@@ -27,14 +26,29 @@ Denary is used in daily usages to count, measure and perform calculations such a
 - measure how tall a building needs to be
 This allows humans to have a easier interaction with computers.
 
-Hexadecimal:
+## Hexadecimal:
 - 16-base (0-9 , A-F (10-15))
+- Counting from right to left when assigning positions
 
 Why is Hexadecimal used?
 Hexadecimal is used to make large binary numbers representable. 
+Examples of these can be found in:
+- IP Address (IPv4)
+- Web Design (Colour codes)
+- Memory addresses
+This allows notations to be more "human-friendly"
 
+## Octal:
+- 8-base
+- Calcuation = Digit X 8 ^ position
+- Counting from right to left when assigning positions
+- Not used as often anymore (Hexadecimal is the preferred)
 
+Why is Octal used?
+- A simpler way to read and write binary.
+- In Unix/Linux errors/permissions
 
-
-Need to finish this on sunday + make data md
-
+## Importance of number systems in computing:
+- Are the foundation for storing, processing and outputting information. 
+- Computers use 0 and 1 at hardware level this known as binary (Machine code)
+- Other number systems (Denary, Hexadecimal and Octal) are human-friendly allowing us to interact with machine more easily
