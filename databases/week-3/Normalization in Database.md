@@ -11,7 +11,7 @@
 - Improves data integrity (backups, validation)
 
 
-3 Types of normalization levels:
+**3 Types of normalization levels:**
 
 - 1NF (First Normal Form)
 - 2NF (Second Normal Form)
