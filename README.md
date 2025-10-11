@@ -3,7 +3,6 @@
 
 This repo contains:
 - My study notes
-- Reflections from Computer Science Level 3 course
 - Side learning
 
 Notes are organised by topic and updated weekly. Each folder contains files which -> explanations, core insights and reflections.
